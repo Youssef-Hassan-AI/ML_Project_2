@@ -41,7 +41,7 @@ The project is structured with a clear separation of concerns:
    ```bash
    python frontend/app.py
    ```
-   Open the provided local URL (typically `http://127.0.0.1:7860/`) in your browser.
+   Open the provided local URL (typically `http://127.0.0.1:7861/`) in your browser.
 
 ## 📂 Project Structure
 
